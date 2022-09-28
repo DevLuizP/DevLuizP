@@ -13,9 +13,7 @@ Olá! Eu me chamo Luiz Paulo Cardoso
 
   ##
   
-<div>
   ![Snake animation](https://github.com/DevLuizP/DevLuizP/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 <!---
 DevLuizP/DevLuizP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
