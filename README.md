@@ -2,7 +2,7 @@
 
 - 🤖 Sou formado em Análise e Desenvolvimento de Sistemas
 - 👨‍💻 Atualmente trabalho como Assistente de TI
-- 🚀 No momento estou aprendendo React JS
+- 🚀 No momento estou estudando Data Science
 
 <div align="center">
   <a href="https://github.com/DevLuizP">
