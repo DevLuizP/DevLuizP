@@ -2,7 +2,7 @@
 
 - 🤖 Sou formado em Análise e Desenvolvimento de Sistemas
 - 👨‍💻 Atualmente trabalho como Assistente de TI
-- 🚀 No momento estou estudando Data Science
+- 🚀 No momento estou estudando ASP.NET
 
 <div align="center">
   <a href="https://github.com/DevLuizP">
